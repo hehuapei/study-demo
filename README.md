@@ -5,4 +5,4 @@
 
 #### Project
 ---
-- 1. flutter实现应用内升级demo: 基于flutter的APP内升级简单实现;[Link](https://www.hehuapei.com)
+- flutter实现应用内升级demo: 基于flutter的APP内升级简单实现;[Source](https://github.com/hehuapei/study-demo/tree/master/flutter-app-update-demo)[Blog](https://www.hehuapei.com/index.php/archives/16/)
