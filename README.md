@@ -1,7 +1,8 @@
-这是个存放分享学习demo的项目
+这是个存放分享学习demo的项目  
 
-对应文章可以到[https://www.hehuapei.com](https://www.hehuapei.com)上面查看
+对应文章可以到[https://www.hehuapei.com](https://www.hehuapei.com)上面查看  
 
+有问题欢迎提issue或者在blog上评论留言,大家一起探讨!  
 
 #### Project
 ---
