@@ -84,7 +84,7 @@ class _MyHomePageState extends State<MyHomePage> {
     Map map = new HashMap();
     map['data'] = '1.新增app应用内升级\n2.修复若干个bug';
     map['ver'] = '1.0.1';
-    map['url'] = 'https://github.com/hehuapei/flutter-demo/raw/master/resource/app.apk';
+    map['url'] = 'https://github.com/hehuapei/study-demo/raw/master/flutter-app-update-demo/resource/app.apk';
 
     //判断如果服务器上版本比当前版本新,则返回最新版本信息
     if((Random().nextInt(10)) > 3){
