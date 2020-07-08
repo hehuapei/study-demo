@@ -1,3 +1,6 @@
+注意：目前发现下载有问题 [issue#4](https://github.com/hehuapei/study-demo/issues/4)
+
+
 ### 安卓app应用内升级demo
 
 ---
